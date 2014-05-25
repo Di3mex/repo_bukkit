@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.sk89q</groupId>
+  <artifactId>worldguard</artifactId>
+  <version>5.8.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20140507171027</lastUpdated>
+  </versioning>
+</metadata>
